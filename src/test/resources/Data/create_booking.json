@@ -1,0 +1,11 @@
+{
+  "firstname" : "Pinal",
+  "lastname" : "Pandya",
+  "totalprice" : 123456,
+  "depositpaid" : true,
+  "bookingdates" : {
+    "checkin" : "2025-12-12",
+    "checkout" : "2019-12-13"
+  },
+  "additionalneeds" : "Poha"
+}
